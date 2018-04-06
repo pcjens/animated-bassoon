@@ -1,3 +1,5 @@
+<small>Commiteissa näkyy neonmoe committaajana koska unohdin vaihtaa gitin configissa user.emailin, hups.</small>
+
 ## 0.3 Muistiinpanojen sivu
 ![](diagram-03.png)
 ## 0.4 Uusi muistiinpano
